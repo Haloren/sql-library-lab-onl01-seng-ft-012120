@@ -22,6 +22,8 @@ LIMIT 1
 ;"
 end
 
+
+
 def select_name_and_series_subgenres_of_authors
   "Write your SQL query here"
 end
